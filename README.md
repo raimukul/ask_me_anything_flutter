@@ -1,7 +1,7 @@
 # ask_me_anything_flutter
 
 A new Flutter application.
-
+![Screenshot](https://raw.githubusercontent.com/raimukul/ask_me_anything_flutter/main/images/Screenshot_1614408154.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
